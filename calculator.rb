@@ -1,4 +1,4 @@
 
 
 first_number = 1
-second_nymber = 5
+second_number = 5
